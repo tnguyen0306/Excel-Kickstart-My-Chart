@@ -1,5 +1,7 @@
 # Excel Homework: Kickstart My Chart
 
+![result](images/result.png)
+
 ## Background
 
 Over $2 billion has been raised using the massively successful crowdfunding service, Kickstarter, but not every project has found success. Of the more than 300,000 projects launched on Kickstarter, only a third have made it through the funding process with a positive outcome.
@@ -110,21 +112,7 @@ For those looking for an additional challenge, you will evaluate the number of b
 
 * Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
 
-## Submission
-
-* To submit your homework, upload the solution and files to a GitHub repo, Dropbox, or Google Drive and submit the link to <https://bootcampspot.com/>.
-
-## Employer-Ready Criteria
-
-Students who are marked as employer-ready gain access to our employer referral program, additional workshops, and other resources. Work with your Career Director to become employer-ready. At a minimum, you must have:
-
-- A clear, concise, and compelling resume. Submit via your learning platform for review.
-- A polished GitHub profile:
-  - 3 - 6 pinned repositories ([instructions here](https://docs.github.com/en/enterprise/2.13/user/articles/pinning-items-to-your-profile))
-  - at least 5 commits per repository
-  - professional titles, i.e. not "Homework #1"
-  - thorough README.md files for each repository
-  - clean code
+## Results
 
 - - -
 
